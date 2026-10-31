@@ -1,0 +1,20 @@
+{
+    "disks": [
+        {
+            "model": "Samsung 870 EVO",
+            "price": 2500
+        },
+        {
+            "model": "Kingston A400",
+            "price": 1200
+        },
+        {
+            "model": "WD Blue",
+            "price": 1800
+        },
+        {
+            "model": "Seagate Barracuda",
+            "price": 2100
+        }
+    ]
+}
